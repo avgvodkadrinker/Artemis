@@ -1,5 +1,5 @@
 <h1 align="center">
-   Artemis
+   Artemis, Created and founded by Anastasia Petrova
 </h1>
 <p align= "center">
 
