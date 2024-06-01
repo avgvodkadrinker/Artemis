@@ -5,7 +5,7 @@
 
 </p>
 
-### This is a brand new paypal, snapchat, discord and cashapp stealer and credit card card generator
+### This is a brand new paypal, snapchat, discord and cashapp stealer with a credit card card generator and a roblox script area too
 
 ## Table of Contents
 
